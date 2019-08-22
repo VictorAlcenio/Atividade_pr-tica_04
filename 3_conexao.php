@@ -2,8 +2,8 @@
 
 //Conectar–se ao BD
 $dbhost = 'localhost';
-$dbuser = 'root';
-$dbpassword = '';
+$dbuser = 'aluno';
+$dbpassword = 'aluno';
 $dbname = 'atv_prt_043_bd';
 
 //Efetua a conexão com o BD
